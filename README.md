@@ -1,7 +1,9 @@
 # IV28-clock
-Digital clock with soviet-made IV-28 (ИВ-28) МАВ indicator.
+Digital clock with soviet-made IV-28 (ИВ-28 in Russian) VFD indicator.
 
-Clock is driven by ESP32 C3 Soper mini, MAX6921 driver is used to drive VFD, and indcator I got is Soviet-made prodiced IV-28 in December 1988.
+Clock is driven by ESP32 C3 Super mini, MAX6921 is used to drive VFD. Indcator I got is Soviet-made IV-28 prodiced in December 1988.
+
+Status: work in progress. Prototyping is done, I will publish the schematics and software as soon as it is ready.
 
 ## Hardware
 
