@@ -28,7 +28,7 @@ References to software components:
 ## Hardware
 
 Hardware schematics:
-
+https://oshwlab.com/alexander.krotov/iv-18-clock_copy_copy
 
 Clock is powered from a USB connector, it could be provided via ESP32 module connector.
 
