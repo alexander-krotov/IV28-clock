@@ -30,7 +30,7 @@ References to software components:
 Hardware schematics:
 https://oshwlab.com/alexander.krotov/iv-18-clock_copy_copy
 
-Clock is powered from a USB connector, it could be provided via ESP32 module connector.
+Clock is powered from USB 5v power supply, it could be provided via ESP32 module connector. It eats about 80mA, peaking to 150mA.
 
 IV-28 VFD display needs 24v power supply. It is provided by a charge pump implemented in hardware.
 
